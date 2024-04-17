@@ -20,3 +20,21 @@ font-family: Poppins;
     color: transparent; /* Hide the original text color */
     
 }
+.paracolor{
+    color: #DBDBDB;
+}
+.my-pos-absolute-current{
+    position: absolute;
+    top: 20%;
+    right: 28%;
+}
+.my-pos-absolute-love{
+    position: absolute;
+    top: 65%;
+    right: 25%;
+}
+.my-pos-absolute-fire{
+position: absolute;
+top: 26%;
+left: 25%;
+}
