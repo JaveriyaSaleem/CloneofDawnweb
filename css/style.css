@@ -6,11 +6,18 @@
     font-family:Clash Display Bold;
     src: url(../fonts/ClashDisplayBold.otf);
 }
+@font-face {
+    font-family:ClashDisplayRegular ;
+    src: url(../fonts/ClashDisplayRegular.otf);
+}
 /* *{
     border: 1px solid #FF006A;
 } */
 .poppins-reg{
 font-family: Poppins;
+}
+.ClashDisplayReg{
+    font-family: ClashDisplayRegular;
 }
 
 .Clash-Display-bold{
